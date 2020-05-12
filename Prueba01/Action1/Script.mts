@@ -1,3 +1,3 @@
-﻿*This is a new test to launch and perform action in the Advantage
+﻿'This is a new test to launch and perform action in the Advantage
 
-SystemUntil.Run "iexplore", "http://advantageonlineshopping.com/"
+SystemUtil.Run "iexplore.exe", "http://advantageonlineshopping.com/"
